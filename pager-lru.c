@@ -1,17 +1,3 @@
-/*
- * File: pager-lru.c
- * Author:       Andy Sayler
- *               http://www.andysayler.com
- * Adopted From: Dr. Alva Couch
- *               http://www.cs.tufts.edu/~couch/
- *
- * Project: CSCI 3753 Programming Assignment 3
- * Create Date: Unknown
- * Modify Date: 2012/04/03
- * Description:
- * 	This file contains an lru pageit
- *      implmentation.
- */
 
 #include <stdio.h>
 #include <stdlib.h>
