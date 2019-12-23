@@ -10,12 +10,6 @@ Adopted From
 Assignment by Dr. Alva Couch
 http://www.cs.tufts.edu/~couch/
 
-With help from:
-Junho Ahn - 2012
-
----Folders---
-handout - Assignment description and documentation
-
 ---Files---
 Makefile - GNU makefile to build all relevant code
 pager-basic.c - Basic paging strategy implementation that runs one process at a time.
